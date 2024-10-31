@@ -1,0 +1,1225 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: MWB Multi Currency Switcher For WooCommerce 1.2.0\n"
+"POT-Creation-Date: 2021-12-02 16:26+0530\n"
+"PO-Revision-Date: 2021-12-02 16:26+0530\n"
+"Last-Translator: \n"
+"Language-Team: MakeWebBetter\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.6\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n;_x;_ex;_nx;esc_attr__;esc_attr_e;esc_attr_x;"
+"esc_html__;esc_html_e;esc_html_x;_n_noop;_nx_noop;translate_nooped_plural\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: admin/class-mwb-multi-currency-switcher-for-woocommerce-admin.php:106
+#: admin/class-mwb-multi-currency-switcher-for-woocommerce-admin.php:146
+msgid "Regular price"
+msgstr ""
+
+#: admin/class-mwb-multi-currency-switcher-for-woocommerce-admin.php:107
+#: admin/class-mwb-multi-currency-switcher-for-woocommerce-admin.php:147
+msgid "Sales price"
+msgstr ""
+
+#: admin/class-mwb-multi-currency-switcher-for-woocommerce-admin.php:108
+#: admin/class-mwb-multi-currency-switcher-for-woocommerce-admin.php:148
+#: templates/admin/mwb-multi-currency-switcher-for-woocommerce-admin-currency-table-edit-tab.php:20
+#: templates/admin/mwb-multi-currency-switcher-for-woocommerce-admin-currency-table-edit-tab.php:30
+msgid " Currency"
+msgstr ""
+
+#: admin/class-mwb-multi-currency-switcher-for-woocommerce-admin.php:109
+#: admin/class-mwb-multi-currency-switcher-for-woocommerce-admin.php:149
+msgid "Coupon Amount"
+msgstr ""
+
+#: admin/class-mwb-multi-currency-switcher-for-woocommerce-admin.php:111
+#: admin/class-mwb-multi-currency-switcher-for-woocommerce-admin.php:151
+msgid "Please Enter 3 letters of Country Code !!! "
+msgstr ""
+
+#: admin/class-mwb-multi-currency-switcher-for-woocommerce-admin.php:112
+#: admin/class-mwb-multi-currency-switcher-for-woocommerce-admin.php:152
+msgid "No currency available!!"
+msgstr ""
+
+#: admin/class-mwb-multi-currency-switcher-for-woocommerce-admin.php:113
+#: admin/class-mwb-multi-currency-switcher-for-woocommerce-admin.php:153
+msgid ""
+"Hi! In the free version of MWB Multi Currency Switcher For WooCommerce  you "
+"can operate with ANY of the 3 currencies! For more currencies upgrade to the "
+"premium version?"
+msgstr ""
+
+#: admin/class-mwb-multi-currency-switcher-for-woocommerce-admin.php:114
+#: admin/class-mwb-multi-currency-switcher-for-woocommerce-admin.php:154
+msgid "Already added"
+msgstr ""
+
+#: admin/class-mwb-multi-currency-switcher-for-woocommerce-admin.php:170
+#: onboarding/templates/mwb-multi-currency-switcher-for-woocommerce-onboarding-template.php:27
+msgid "MakeWebBetter"
+msgstr ""
+
+#: admin/class-mwb-multi-currency-switcher-for-woocommerce-admin.php:203
+#: mwb-multi-currency-switcher-for-woocommerce.php:123
+#: mwb-multi-currency-switcher-for-woocommerce.php:129
+#: mwb-multi-currency-switcher-for-woocommerce.php:303
+msgid "MWB Multi Currency Switcher For WooCommerce"
+msgstr ""
+
+#: admin/class-mwb-multi-currency-switcher-for-woocommerce-admin.php:248
+#: admin/class-mwb-multi-currency-switcher-for-woocommerce-admin.php:318
+#: admin/class-mwb-multi-currency-switcher-for-woocommerce-admin.php:552
+#: admin/partials/mwb-multi-currency-switcher-for-woocommerce-admin-currency-geolocation-tab.php:88
+msgid "Save"
+msgstr ""
+
+#: admin/class-mwb-multi-currency-switcher-for-woocommerce-admin.php:267
+msgid "Enable Side Switcher"
+msgstr ""
+
+#: admin/class-mwb-multi-currency-switcher-for-woocommerce-admin.php:269
+msgid "Enable to see switcher at the front-end "
+msgstr ""
+
+#: admin/class-mwb-multi-currency-switcher-for-woocommerce-admin.php:275
+#: admin/class-mwb-multi-currency-switcher-for-woocommerce-admin.php:424
+#: admin/class-mwb-multi-currency-switcher-for-woocommerce-admin.php:437
+#: admin/class-mwb-multi-currency-switcher-for-woocommerce-admin.php:450
+#: admin/class-mwb-multi-currency-switcher-for-woocommerce-admin.php:463
+#: admin/class-mwb-multi-currency-switcher-for-woocommerce-admin.php:476
+#: admin/class-mwb-multi-currency-switcher-for-woocommerce-admin.php:489
+#: admin/class-mwb-multi-currency-switcher-for-woocommerce-admin.php:502
+#: admin/class-mwb-multi-currency-switcher-for-woocommerce-admin.php:518
+#: admin/class-mwb-multi-currency-switcher-for-woocommerce-admin.php:531
+#: admin/class-mwb-multi-currency-switcher-for-woocommerce-admin.php:545
+#: admin/class-mwb-multi-currency-switcher-for-woocommerce-admin.php:669
+msgid "YES"
+msgstr ""
+
+#: admin/class-mwb-multi-currency-switcher-for-woocommerce-admin.php:276
+#: admin/class-mwb-multi-currency-switcher-for-woocommerce-admin.php:425
+#: admin/class-mwb-multi-currency-switcher-for-woocommerce-admin.php:438
+#: admin/class-mwb-multi-currency-switcher-for-woocommerce-admin.php:451
+#: admin/class-mwb-multi-currency-switcher-for-woocommerce-admin.php:464
+#: admin/class-mwb-multi-currency-switcher-for-woocommerce-admin.php:477
+#: admin/class-mwb-multi-currency-switcher-for-woocommerce-admin.php:490
+#: admin/class-mwb-multi-currency-switcher-for-woocommerce-admin.php:503
+#: admin/class-mwb-multi-currency-switcher-for-woocommerce-admin.php:519
+#: admin/class-mwb-multi-currency-switcher-for-woocommerce-admin.php:532
+#: admin/class-mwb-multi-currency-switcher-for-woocommerce-admin.php:546
+#: admin/class-mwb-multi-currency-switcher-for-woocommerce-admin.php:670
+msgid "NO"
+msgstr ""
+
+#: admin/class-mwb-multi-currency-switcher-for-woocommerce-admin.php:280
+msgid "Switcher Style"
+msgstr ""
+
+#: admin/class-mwb-multi-currency-switcher-for-woocommerce-admin.php:287
+#: admin/class-mwb-multi-currency-switcher-for-woocommerce-admin.php:298
+#: admin/class-mwb-multi-currency-switcher-for-woocommerce-admin.php:412
+#: admin/class-mwb-multi-currency-switcher-for-woocommerce-admin.php:681
+#: admin/class-mwb-multi-currency-switcher-for-woocommerce-admin.php:692
+msgid "Select Demo"
+msgstr ""
+
+#: admin/class-mwb-multi-currency-switcher-for-woocommerce-admin.php:291
+msgid "Switcher Position"
+msgstr ""
+
+#: admin/class-mwb-multi-currency-switcher-for-woocommerce-admin.php:336
+#: admin/class-mwb-multi-currency-switcher-for-woocommerce-admin.php:696
+#: admin/class-mwb-multi-currency-switcher-for-woocommerce-admin.php:721
+msgid "Select option"
+msgstr ""
+
+#: admin/class-mwb-multi-currency-switcher-for-woocommerce-admin.php:337
+msgid "Left"
+msgstr ""
+
+#: admin/class-mwb-multi-currency-switcher-for-woocommerce-admin.php:338
+msgid "Right"
+msgstr ""
+
+#: admin/class-mwb-multi-currency-switcher-for-woocommerce-admin.php:352
+msgid "Roll Block"
+msgstr ""
+
+#: admin/class-mwb-multi-currency-switcher-for-woocommerce-admin.php:383
+#: admin/class-mwb-multi-currency-switcher-for-woocommerce-admin.php:639
+#: admin/class-mwb-multi-currency-switcher-for-woocommerce-admin.php:777
+#: common/class-mwb-multi-currency-switcher-for-woocommerce-common.php:636
+#: common/class-mwb-multi-currency-switcher-for-woocommerce-common.php:694
+msgid "Id of some field is missing"
+msgstr ""
+
+#: admin/class-mwb-multi-currency-switcher-for-woocommerce-admin.php:386
+msgid "Side Switcher Settings saved !"
+msgstr ""
+
+#: admin/class-mwb-multi-currency-switcher-for-woocommerce-admin.php:405
+msgid "Select Welcome Currency"
+msgstr ""
+
+#: admin/class-mwb-multi-currency-switcher-for-woocommerce-admin.php:416
+msgid "Hide Side Switcher on Shop Page"
+msgstr ""
+
+#: admin/class-mwb-multi-currency-switcher-for-woocommerce-admin.php:418
+msgid "Hide switcher on the shop page for any of your reason"
+msgstr ""
+
+#: admin/class-mwb-multi-currency-switcher-for-woocommerce-admin.php:429
+msgid "Hide Widget on shop Page"
+msgstr ""
+
+#: admin/class-mwb-multi-currency-switcher-for-woocommerce-admin.php:431
+msgid "Hide widget on the shop page for any of your reason"
+msgstr ""
+
+#: admin/class-mwb-multi-currency-switcher-for-woocommerce-admin.php:442
+msgid "Hide Side Switcher on Cart Page"
+msgstr ""
+
+#: admin/class-mwb-multi-currency-switcher-for-woocommerce-admin.php:444
+msgid "Hide switcher on the cart page for any of your reason"
+msgstr ""
+
+#: admin/class-mwb-multi-currency-switcher-for-woocommerce-admin.php:455
+msgid "Hide Widget on Cart Page"
+msgstr ""
+
+#: admin/class-mwb-multi-currency-switcher-for-woocommerce-admin.php:457
+msgid "Hide widget on the cart page for any of your reason"
+msgstr ""
+
+#: admin/class-mwb-multi-currency-switcher-for-woocommerce-admin.php:468
+msgid "Hide Side Switcher on Checkout Page"
+msgstr ""
+
+#: admin/class-mwb-multi-currency-switcher-for-woocommerce-admin.php:470
+msgid "Hide switcher on the checkout page for any of your reason"
+msgstr ""
+
+#: admin/class-mwb-multi-currency-switcher-for-woocommerce-admin.php:481
+msgid "Hide Widget on Checkout Page"
+msgstr ""
+
+#: admin/class-mwb-multi-currency-switcher-for-woocommerce-admin.php:483
+msgid "Hide widget on the checkout page for any of your reason"
+msgstr ""
+
+#: admin/class-mwb-multi-currency-switcher-for-woocommerce-admin.php:494
+msgid "Enable Geolocation Rules"
+msgstr ""
+
+#: admin/class-mwb-multi-currency-switcher-for-woocommerce-admin.php:496
+msgid "Enable GeoIP rules for visitors"
+msgstr ""
+
+#: admin/class-mwb-multi-currency-switcher-for-woocommerce-admin.php:510
+msgid "Enable Custom Price for Product"
+msgstr ""
+
+#: admin/class-mwb-multi-currency-switcher-for-woocommerce-admin.php:512
+msgid "Enable To set a custom price for the product according to currency"
+msgstr ""
+
+#: admin/class-mwb-multi-currency-switcher-for-woocommerce-admin.php:523
+msgid "Enable Custom Coupon for Product"
+msgstr ""
+
+#: admin/class-mwb-multi-currency-switcher-for-woocommerce-admin.php:525
+msgid "Enable To set custom coupon according to currency"
+msgstr ""
+
+#: admin/class-mwb-multi-currency-switcher-for-woocommerce-admin.php:536
+msgid "Enable Shipping Price for Product"
+msgstr ""
+
+#: admin/class-mwb-multi-currency-switcher-for-woocommerce-admin.php:538
+msgid "Enable To set custom shipping price according to currency"
+msgstr ""
+
+#: admin/class-mwb-multi-currency-switcher-for-woocommerce-admin.php:642
+msgid "Advance Settings saved !"
+msgstr ""
+
+#: admin/class-mwb-multi-currency-switcher-for-woocommerce-admin.php:662
+msgid "Enable Plugin Functionality "
+msgstr ""
+
+#: admin/class-mwb-multi-currency-switcher-for-woocommerce-admin.php:664
+msgid "Enable plugin to start the functionality."
+msgstr ""
+
+#: admin/class-mwb-multi-currency-switcher-for-woocommerce-admin.php:674
+msgid "Select Currency  Aggregator"
+msgstr ""
+
+#: admin/class-mwb-multi-currency-switcher-for-woocommerce-admin.php:685
+msgid "Currency rate auto-update"
+msgstr ""
+
+#: admin/class-mwb-multi-currency-switcher-for-woocommerce-admin.php:697
+msgid "Every minute"
+msgstr ""
+
+#: admin/class-mwb-multi-currency-switcher-for-woocommerce-admin.php:698
+msgid "Every 15 minutes"
+msgstr ""
+
+#: admin/class-mwb-multi-currency-switcher-for-woocommerce-admin.php:699
+msgid "Every 30 minutes"
+msgstr ""
+
+#: admin/class-mwb-multi-currency-switcher-for-woocommerce-admin.php:700
+msgid "Every 45 minutes"
+msgstr ""
+
+#: admin/class-mwb-multi-currency-switcher-for-woocommerce-admin.php:701
+msgid "Every Hour"
+msgstr ""
+
+#: admin/class-mwb-multi-currency-switcher-for-woocommerce-admin.php:702
+msgid "Twice Daily"
+msgstr ""
+
+#: admin/class-mwb-multi-currency-switcher-for-woocommerce-admin.php:703
+msgid "Daily"
+msgstr ""
+
+#: admin/class-mwb-multi-currency-switcher-for-woocommerce-admin.php:704
+msgid "Weekly"
+msgstr ""
+
+#: admin/class-mwb-multi-currency-switcher-for-woocommerce-admin.php:705
+msgid "Monthly"
+msgstr ""
+
+#: admin/class-mwb-multi-currency-switcher-for-woocommerce-admin.php:722
+msgid "Yahoo Finance API"
+msgstr ""
+
+#: admin/class-mwb-multi-currency-switcher-for-woocommerce-admin.php:723
+msgid "www.bnr.ro (Bank of romaniei)"
+msgstr ""
+
+#: admin/class-mwb-multi-currency-switcher-for-woocommerce-admin.php:724
+msgid "The Free Currency Converter by European Central Bank"
+msgstr ""
+
+#: admin/class-mwb-multi-currency-switcher-for-woocommerce-admin.php:725
+msgid "Bank of Italy"
+msgstr ""
+
+#: admin/class-mwb-multi-currency-switcher-for-woocommerce-admin.php:726
+msgid "Exchange rate"
+msgstr ""
+
+#: admin/class-mwb-multi-currency-switcher-for-woocommerce-admin.php:780
+msgid "Currency Settings saved !"
+msgstr ""
+
+#: admin/class-mwb-multi-currency-switcher-for-woocommerce-admin.php:975
+#: admin/class-mwb-multi-currency-switcher-for-woocommerce-admin.php:994
+#: admin/class-mwb-multi-currency-switcher-for-woocommerce-admin.php:1011
+#: admin/class-mwb-multi-currency-switcher-for-woocommerce-admin.php:1025
+#: admin/class-mwb-multi-currency-switcher-for-woocommerce-admin.php:1030
+#: admin/class-mwb-multi-currency-switcher-for-woocommerce-admin.php:1180
+#: admin/class-mwb-multi-currency-switcher-for-woocommerce-admin.php:1189
+msgid "no data for "
+msgstr ""
+
+#: admin/class-mwb-multi-currency-switcher-for-woocommerce-admin.php:1051
+#: admin/class-mwb-multi-currency-switcher-for-woocommerce-admin.php:1072
+#: admin/class-mwb-multi-currency-switcher-for-woocommerce-admin.php:1094
+#: admin/class-mwb-multi-currency-switcher-for-woocommerce-admin.php:1100
+#: admin/class-mwb-multi-currency-switcher-for-woocommerce-admin.php:1125
+#: admin/class-mwb-multi-currency-switcher-for-woocommerce-admin.php:1137
+#: admin/class-mwb-multi-currency-switcher-for-woocommerce-admin.php:1159
+#: common/class-mwb-multi-currency-switcher-for-woocommerce-common.php:382
+#: common/class-mwb-multi-currency-switcher-for-woocommerce-common.php:402
+#: common/class-mwb-multi-currency-switcher-for-woocommerce-common.php:420
+#: common/class-mwb-multi-currency-switcher-for-woocommerce-common.php:434
+#: common/class-mwb-multi-currency-switcher-for-woocommerce-common.php:439
+#: common/class-mwb-multi-currency-switcher-for-woocommerce-common.php:460
+#: common/class-mwb-multi-currency-switcher-for-woocommerce-common.php:483
+#: common/class-mwb-multi-currency-switcher-for-woocommerce-common.php:505
+#: common/class-mwb-multi-currency-switcher-for-woocommerce-common.php:511
+#: common/class-mwb-multi-currency-switcher-for-woocommerce-common.php:536
+#: common/class-mwb-multi-currency-switcher-for-woocommerce-common.php:548
+#: common/class-mwb-multi-currency-switcher-for-woocommerce-common.php:570
+#: common/class-mwb-multi-currency-switcher-for-woocommerce-common.php:589
+#: common/class-mwb-multi-currency-switcher-for-woocommerce-common.php:597
+#: includes/dependency/class-mwb-multi-currency-switcher-for-woocommerce-dependency.php:287
+#: includes/dependency/class-mwb-multi-currency-switcher-for-woocommerce-dependency.php:304
+#: includes/dependency/class-mwb-multi-currency-switcher-for-woocommerce-dependency.php:322
+#: includes/dependency/class-mwb-multi-currency-switcher-for-woocommerce-dependency.php:336
+#: includes/dependency/class-mwb-multi-currency-switcher-for-woocommerce-dependency.php:341
+#: includes/dependency/class-mwb-multi-currency-switcher-for-woocommerce-dependency.php:360
+#: includes/dependency/class-mwb-multi-currency-switcher-for-woocommerce-dependency.php:380
+#: includes/dependency/class-mwb-multi-currency-switcher-for-woocommerce-dependency.php:402
+#: includes/dependency/class-mwb-multi-currency-switcher-for-woocommerce-dependency.php:408
+#: includes/dependency/class-mwb-multi-currency-switcher-for-woocommerce-dependency.php:433
+#: includes/dependency/class-mwb-multi-currency-switcher-for-woocommerce-dependency.php:445
+#: includes/dependency/class-mwb-multi-currency-switcher-for-woocommerce-dependency.php:467
+#: includes/dependency/class-mwb-multi-currency-switcher-for-woocommerce-dependency.php:484
+#: includes/dependency/class-mwb-multi-currency-switcher-for-woocommerce-dependency.php:491
+msgid "no data available for "
+msgstr ""
+
+#: admin/partials/class-mwb-mmcsfw-currency-switcher-widget.php:29
+msgid "Currency Switcher Widget"
+msgstr ""
+
+#: admin/partials/class-mwb-mmcsfw-currency-switcher-widget.php:31
+msgid "Widget for currency conversion"
+msgstr ""
+
+#: admin/partials/class-mwb-mmcsfw-currency-switcher-widget.php:89
+msgid "Currency Switcher !!!"
+msgstr ""
+
+#: admin/partials/class-mwb-mmcsfw-currency-switcher-widget.php:162
+msgid "New title"
+msgstr ""
+
+#: admin/partials/class-mwb-mmcsfw-currency-switcher-widget.php:167
+msgid "Title:"
+msgstr ""
+
+#: admin/partials/mwb-multi-currency-switcher-for-woocommerce-admin-currency-geolocation-tab.php:25
+#: admin/partials/mwb-multi-currency-switcher-for-woocommerce-admin-currency-geolocation-tab.php:49
+msgid "Please first set the currency in the currency tab !!"
+msgstr ""
+
+#: admin/partials/mwb-multi-currency-switcher-for-woocommerce-admin-currency-geolocation-tab.php:100
+#: admin/partials/mwb-multi-currency-switcher-for-woocommerce-general.php:42
+#: admin/partials/mwb-multi-currency-switcher-for-woocommerce-general.php:45
+msgid "Note"
+msgstr ""
+
+#: admin/partials/mwb-multi-currency-switcher-for-woocommerce-admin-currency-geolocation-tab.php:101
+msgid ""
+"To enable this feature go to Advance Settings and Enable Geolocation rules"
+msgstr ""
+
+#: admin/partials/mwb-multi-currency-switcher-for-woocommerce-admin-currency-side-switcher.php:33
+msgid "Switcher Background Color"
+msgstr ""
+
+#: admin/partials/mwb-multi-currency-switcher-for-woocommerce-admin-currency-side-switcher.php:42
+msgid "Currency Background Color"
+msgstr ""
+
+#: admin/partials/mwb-multi-currency-switcher-for-woocommerce-admin-currency-side-switcher.php:53
+msgid "Currency Text Color"
+msgstr ""
+
+#: admin/partials/mwb-multi-currency-switcher-for-woocommerce-admin-currency-side-switcher.php:64
+msgid "Currency Description Text Color"
+msgstr ""
+
+#: admin/partials/mwb-multi-currency-switcher-for-woocommerce-admin-currency-switcher.php:72
+msgid "Default"
+msgstr ""
+
+#: admin/partials/mwb-multi-currency-switcher-for-woocommerce-admin-currency-switcher.php:73
+msgid "Currency Code"
+msgstr ""
+
+#: admin/partials/mwb-multi-currency-switcher-for-woocommerce-admin-currency-switcher.php:74
+msgid "Symbol"
+msgstr ""
+
+#: admin/partials/mwb-multi-currency-switcher-for-woocommerce-admin-currency-switcher.php:75
+msgid "Position"
+msgstr ""
+
+#: admin/partials/mwb-multi-currency-switcher-for-woocommerce-admin-currency-switcher.php:76
+msgid "Rate and Interest"
+msgstr ""
+
+#: admin/partials/mwb-multi-currency-switcher-for-woocommerce-admin-currency-switcher.php:77
+msgid "Decimal"
+msgstr ""
+
+#: admin/partials/mwb-multi-currency-switcher-for-woocommerce-admin-currency-switcher.php:78
+msgid "Flag"
+msgstr ""
+
+#: admin/partials/mwb-multi-currency-switcher-for-woocommerce-admin-currency-switcher.php:79
+msgid "Edit"
+msgstr ""
+
+#: admin/partials/mwb-multi-currency-switcher-for-woocommerce-admin-currency-switcher.php:118
+msgid "Set Currency"
+msgstr ""
+
+#: admin/partials/mwb-multi-currency-switcher-for-woocommerce-admin-currency-switcher.php:121
+msgid "Money signs"
+msgstr ""
+
+#: admin/partials/mwb-multi-currency-switcher-for-woocommerce-admin-currency-switcher.php:160
+msgid "$P - left"
+msgstr ""
+
+#: admin/partials/mwb-multi-currency-switcher-for-woocommerce-admin-currency-switcher.php:167
+msgid "P$ - right"
+msgstr ""
+
+#: admin/partials/mwb-multi-currency-switcher-for-woocommerce-admin-currency-switcher.php:174
+msgid "$ P - left space"
+msgstr ""
+
+#: admin/partials/mwb-multi-currency-switcher-for-woocommerce-admin-currency-switcher.php:181
+msgid "P $ - right space"
+msgstr ""
+
+#: admin/partials/mwb-multi-currency-switcher-for-woocommerce-admin-dashboard.php:29
+msgid "MWB MULTI CURRENCY SWITCHER FOR WOOCOMMERCE"
+msgstr ""
+
+#: admin/partials/mwb-multi-currency-switcher-for-woocommerce-admin-dashboard.php:32
+#: mwb-multi-currency-switcher-for-woocommerce.php:260
+msgid "Documentation"
+msgstr ""
+
+#: admin/partials/mwb-multi-currency-switcher-for-woocommerce-admin-dashboard.php:34
+#: mwb-multi-currency-switcher-for-woocommerce.php:262
+msgid "Support"
+msgstr ""
+
+#: admin/partials/mwb-multi-currency-switcher-for-woocommerce-admin-dashboard.php:40
+msgid "Select"
+msgstr ""
+
+#: admin/partials/mwb-multi-currency-switcher-for-woocommerce-general.php:23
+msgid "Add Currency"
+msgstr ""
+
+#: admin/partials/mwb-multi-currency-switcher-for-woocommerce-general.php:43
+msgid ""
+"Currency Code will be 3 letters of the respective country. You can refer to "
+"this link for currency code "
+msgstr ""
+
+#: admin/partials/mwb-multi-currency-switcher-for-woocommerce-general.php:43
+msgid "Get Currency Code"
+msgstr ""
+
+#: admin/partials/mwb-multi-currency-switcher-for-woocommerce-general.php:46
+msgid "Flags will load automatically when you enter the currency code."
+msgstr ""
+
+#: admin/partials/mwb-multi-currency-switcher-for-woocommerce-overview.php:21
+msgid "What is MWB Multi Currency Switcher For WooCommerce?"
+msgstr ""
+
+#: admin/partials/mwb-multi-currency-switcher-for-woocommerce-overview.php:25
+msgid ""
+"MWB Multi Currency Switcher For WooCommerce is the plugin that allows "
+"merchants to provide multiple currencies on the WooCommerce store. This "
+"helps international users to view and pay for your products in their local "
+"currency. Using a currency switcher for WooCommerce will help you expand "
+"your business globally."
+msgstr ""
+
+#: admin/partials/mwb-multi-currency-switcher-for-woocommerce-overview.php:33
+msgid ""
+"The MWB Multi Currency Switcher For WooCommerce allows you to provide "
+"options for 3 currencies at a time to your users. This multi-currency "
+"converter also provides a user-friendly interface and design besides "
+"providing multi-lingual support."
+msgstr ""
+
+#: admin/partials/mwb-multi-currency-switcher-for-woocommerce-overview.php:38
+msgid "With our MWB Multi-Currency Switcher for WooCommerce plugin, you can:"
+msgstr ""
+
+#: admin/partials/mwb-multi-currency-switcher-for-woocommerce-overview.php:44
+msgid ""
+"Add functionality of unlimited currencies to your WooCommerce store for "
+"international users."
+msgstr ""
+
+#: admin/partials/mwb-multi-currency-switcher-for-woocommerce-overview.php:47
+msgid ""
+"Add functionality of three currencies to your WooCommerce store for "
+"international users."
+msgstr ""
+
+#: admin/partials/mwb-multi-currency-switcher-for-woocommerce-overview.php:51
+msgid "Add currency symbols and set the currency position."
+msgstr ""
+
+#: admin/partials/mwb-multi-currency-switcher-for-woocommerce-overview.php:52
+msgid "Set custom thousand and decimal separators."
+msgstr ""
+
+#: admin/partials/mwb-multi-currency-switcher-for-woocommerce-overview.php:53
+msgid "Synchronize currency with respect to the users’s geolocation."
+msgstr ""
+
+#: admin/partials/mwb-multi-currency-switcher-for-woocommerce-overview.php:54
+msgid ""
+"Use of efficient aggregators for currency conversion without the need for an "
+"API key."
+msgstr ""
+
+#: admin/partials/mwb-multi-currency-switcher-for-woocommerce-overview.php:55
+msgid "Set welcome currency for visitors."
+msgstr ""
+
+#: admin/partials/mwb-multi-currency-switcher-for-woocommerce-overview.php:56
+msgid "Side switcher for more user friendly"
+msgstr ""
+
+#: admin/partials/mwb-multi-currency-switcher-for-woocommerce-overview.php:57
+msgid "Flag of specific country will auto load and can also set custom flag."
+msgstr ""
+
+#: admin/partials/mwb-multi-currency-switcher-for-woocommerce-overview.php:61
+msgid "The Free Plugin Benefits"
+msgstr ""
+
+#: admin/partials/mwb-multi-currency-switcher-for-woocommerce-overview.php:69
+msgid "User Friendly"
+msgstr ""
+
+#: admin/partials/mwb-multi-currency-switcher-for-woocommerce-overview.php:73
+msgid ""
+"The plugin allows a user-friendly interface for your customers. You can "
+"allow them to choose their currency easily by putting up convenient currency "
+"switcher formats such as a dropdown menu, side switcher, and country flags."
+msgstr ""
+
+#: admin/partials/mwb-multi-currency-switcher-for-woocommerce-overview.php:87
+msgid "Local Currency Detection"
+msgstr ""
+
+#: admin/partials/mwb-multi-currency-switcher-for-woocommerce-overview.php:88
+msgid ""
+"The multi-currency switcher allows you to detect the visitors’ IP and hence, "
+"set the native currency according to the GeoIP rule defined by the "
+"merchant.  "
+msgstr ""
+
+#: admin/partials/mwb-multi-currency-switcher-for-woocommerce-overview.php:98
+msgid "Custom Price Formats"
+msgstr ""
+
+#: admin/partials/mwb-multi-currency-switcher-for-woocommerce-overview.php:102
+msgid ""
+"You can ensure price formats as per your choice by predefining the thousands "
+"and decimal separators. You also get to place the currency symbol and price "
+"on either side of your choice. "
+msgstr ""
+
+#: admin/partials/mwb-multi-currency-switcher-for-woocommerce-overview.php:116
+msgid "Efficient Currency Aggregators"
+msgstr ""
+
+#: admin/partials/mwb-multi-currency-switcher-for-woocommerce-overview.php:120
+msgid ""
+"The multi-currency switcher allows for 5 currency aggregators enabling "
+"effective currency conversions. MWB multi-currency switcher plugin provides "
+"exclusivity in the fact that merchants do not need an API key for the "
+"currency aggregators. "
+msgstr ""
+
+#: admin/partials/mwb-multi-currency-switcher-for-woocommerce-overview.php:134
+msgid "Welcome Currency"
+msgstr ""
+
+#: admin/partials/mwb-multi-currency-switcher-for-woocommerce-overview.php:138
+msgid ""
+"You can also set a default welcome currency for users. It helps them get a "
+"global perspective of your products. You can set a predefined currency for "
+"your customers irrespective of their location and allow them to switch "
+"currency as per their convenience."
+msgstr ""
+
+#: admin/partials/mwb-multi-currency-switcher-for-woocommerce-plugin-currency-shortcodes.php:27
+msgid "Shortcode Name "
+msgstr ""
+
+#: admin/partials/mwb-multi-currency-switcher-for-woocommerce-plugin-currency-shortcodes.php:28
+#: admin/partials/mwb-multi-currency-switcher-for-woocommerce-plugin-currency-shortcodes.php:61
+msgid "Description "
+msgstr ""
+
+#: admin/partials/mwb-multi-currency-switcher-for-woocommerce-plugin-currency-shortcodes.php:29
+msgid "Code for use"
+msgstr ""
+
+#: admin/partials/mwb-multi-currency-switcher-for-woocommerce-plugin-currency-shortcodes.php:36
+#: admin/partials/mwb-multi-currency-switcher-for-woocommerce-plugin-currency-shortcodes.php:69
+msgid "Currency Switcher Dropdown"
+msgstr ""
+
+#: admin/partials/mwb-multi-currency-switcher-for-woocommerce-plugin-currency-shortcodes.php:37
+msgid ""
+"This shortcode will add currency dropdown and selected currency flag and "
+"will also change the value of the page where it is applied"
+msgstr ""
+
+#: admin/partials/mwb-multi-currency-switcher-for-woocommerce-plugin-currency-shortcodes.php:38
+msgid " [currency_switcher_dropdown]"
+msgstr ""
+
+#: admin/partials/mwb-multi-currency-switcher-for-woocommerce-plugin-currency-shortcodes.php:42
+msgid "Currency Converter"
+msgstr ""
+
+#: admin/partials/mwb-multi-currency-switcher-for-woocommerce-plugin-currency-shortcodes.php:43
+msgid ""
+"This shortcode will allow you to convert currency and see value of the "
+"currency at the real time"
+msgstr ""
+
+#: admin/partials/mwb-multi-currency-switcher-for-woocommerce-plugin-currency-shortcodes.php:44
+msgid " [currency_converter]"
+msgstr ""
+
+#: admin/partials/mwb-multi-currency-switcher-for-woocommerce-plugin-currency-shortcodes.php:60
+msgid "Widget Name "
+msgstr ""
+
+#: admin/partials/mwb-multi-currency-switcher-for-woocommerce-plugin-currency-shortcodes.php:62
+#: mwb-multi-currency-switcher-for-woocommerce.php:259
+msgid "Demo"
+msgstr ""
+
+#: admin/partials/mwb-multi-currency-switcher-for-woocommerce-plugin-currency-shortcodes.php:70
+msgid ""
+"This widget will add currency dropdown, selected currency flag and will also "
+"change the value of the page when it is applied."
+msgstr ""
+
+#: admin/partials/mwb-multi-currency-switcher-for-woocommerce-system-status.php:30
+msgid "WP Variables"
+msgstr ""
+
+#: admin/partials/mwb-multi-currency-switcher-for-woocommerce-system-status.php:31
+msgid "WP Values"
+msgstr ""
+
+#: admin/partials/mwb-multi-currency-switcher-for-woocommerce-system-status.php:56
+msgid "System Variables"
+msgstr ""
+
+#: admin/partials/mwb-multi-currency-switcher-for-woocommerce-system-status.php:57
+msgid "System Values"
+msgstr ""
+
+#: common/class-mwb-multi-currency-switcher-for-woocommerce-common.php:78
+msgid "First fill the currency code !!!"
+msgstr ""
+
+#: common/class-mwb-multi-currency-switcher-for-woocommerce-common.php:79
+msgid "Select Aggregator !!!"
+msgstr ""
+
+#: common/class-mwb-multi-currency-switcher-for-woocommerce-common.php:80
+msgid "Geolocation Rules Settings saved !!"
+msgstr ""
+
+#: common/class-mwb-multi-currency-switcher-for-woocommerce-common.php:81
+#: templates/admin/mwb-multi-currency-switcher-for-woocommerce-admin-currency-table-edit-tab.php:57
+msgid "Upload image"
+msgstr ""
+
+#: common/class-mwb-multi-currency-switcher-for-woocommerce-common.php:639
+msgid "Settings saved !"
+msgstr ""
+
+#: common/class-mwb-multi-currency-switcher-for-woocommerce-common.php:697
+msgid "Geolocation Rules Settings saved !"
+msgstr ""
+
+#: includes/class-mwb-multi-currency-switcher-for-woocommerce-onboarding-steps.php:300
+msgid "What is your monthly revenue?"
+msgstr ""
+
+#: includes/class-mwb-multi-currency-switcher-for-woocommerce-onboarding-steps.php:319
+msgid "What industry defines your business?"
+msgstr ""
+
+#: includes/class-mwb-multi-currency-switcher-for-woocommerce-onboarding-steps.php:325
+msgid "Industry Type"
+msgstr ""
+
+#: includes/class-mwb-multi-currency-switcher-for-woocommerce-onboarding-steps.php:356
+msgid "What is the best email address to contact you?"
+msgstr ""
+
+#: includes/class-mwb-multi-currency-switcher-for-woocommerce-onboarding-steps.php:360
+msgid "Email"
+msgstr ""
+
+#: includes/class-mwb-multi-currency-switcher-for-woocommerce-onboarding-steps.php:368
+msgid "What is your contact number?"
+msgstr ""
+
+#: includes/class-mwb-multi-currency-switcher-for-woocommerce-onboarding-steps.php:373
+msgid "Contact Number"
+msgstr ""
+
+#: includes/class-mwb-multi-currency-switcher-for-woocommerce-onboarding-steps.php:484
+msgid "Let us know why you are deactivating "
+msgstr ""
+
+#: includes/class-mwb-multi-currency-switcher-for-woocommerce-onboarding-steps.php:484
+msgid "so we can improve the plugin"
+msgstr ""
+
+#: includes/class-mwb-multi-currency-switcher-for-woocommerce-onboarding-steps.php:488
+msgid "Reason"
+msgstr ""
+
+#: includes/class-mwb-multi-currency-switcher-for-woocommerce-onboarding-steps.php:729
+msgid "Unexpected Error Occured"
+msgstr ""
+
+#: includes/class-mwb-multi-currency-switcher-for-woocommerce.php:87
+msgid "mwb-multi-currency-switcher-for-woocommerce"
+msgstr ""
+
+#: includes/class-mwb-multi-currency-switcher-for-woocommerce.php:366
+msgid "Overview"
+msgstr ""
+
+#: includes/class-mwb-multi-currency-switcher-for-woocommerce.php:370
+msgid "Currency Settings"
+msgstr ""
+
+#: includes/class-mwb-multi-currency-switcher-for-woocommerce.php:374
+msgid "Advanced Settings"
+msgstr ""
+
+#: includes/class-mwb-multi-currency-switcher-for-woocommerce.php:378
+msgid "Geolocation Rules"
+msgstr ""
+
+#: includes/class-mwb-multi-currency-switcher-for-woocommerce.php:383
+msgid "Side Switcher"
+msgstr ""
+
+#: includes/class-mwb-multi-currency-switcher-for-woocommerce.php:387
+msgid "Shortcodes And Widgets"
+msgstr ""
+
+#: includes/class-mwb-multi-currency-switcher-for-woocommerce.php:393
+msgid "System Status"
+msgstr ""
+
+#: includes/class-mwb-multi-currency-switcher-for-woocommerce.php:415
+#, php-format
+msgid ""
+"Unable to locate file at location \"%s\". Some features may not work "
+"properly in this plugin. Please contact us!"
+msgstr ""
+
+#: includes/class-mwb-multi-currency-switcher-for-woocommerce.php:473
+msgid "N/A (phpversion function does not exist)"
+msgstr ""
+
+#: includes/class-mwb-multi-currency-switcher-for-woocommerce.php:482
+msgid "N/A (make sure exec function is enabled)"
+msgstr ""
+
+#: includes/class-mwb-multi-currency-switcher-for-woocommerce.php:485
+msgid "N/A (ABSPATH constant not defined)"
+msgstr ""
+
+#: includes/class-mwb-multi-currency-switcher-for-woocommerce.php:488
+msgid "N/A (php_uname function does not exist)"
+msgstr ""
+
+#: includes/class-mwb-multi-currency-switcher-for-woocommerce.php:491
+msgid "N/A (get_bloginfo function does not exist)"
+msgstr ""
+
+#: includes/class-mwb-multi-currency-switcher-for-woocommerce.php:494
+msgid "N/A (get_option function does not exist)"
+msgstr ""
+
+#: includes/class-mwb-multi-currency-switcher-for-woocommerce.php:497
+#: includes/class-mwb-multi-currency-switcher-for-woocommerce.php:500
+#: includes/class-mwb-multi-currency-switcher-for-woocommerce.php:503
+msgid "Yes"
+msgstr ""
+
+#: includes/class-mwb-multi-currency-switcher-for-woocommerce.php:497
+#: includes/class-mwb-multi-currency-switcher-for-woocommerce.php:500
+#: includes/class-mwb-multi-currency-switcher-for-woocommerce.php:503
+msgid "No"
+msgstr ""
+
+#: includes/class-mwb-multi-currency-switcher-for-woocommerce.php:506
+msgid "N/A (count_users function does not exist)"
+msgstr ""
+
+#: includes/class-mwb-multi-currency-switcher-for-woocommerce.php:509
+msgid "0"
+msgstr ""
+
+#: includes/class-mwb-multi-currency-switcher-for-woocommerce.php:512
+#: includes/class-mwb-multi-currency-switcher-for-woocommerce.php:518
+#: includes/class-mwb-multi-currency-switcher-for-woocommerce.php:521
+#: includes/class-mwb-multi-currency-switcher-for-woocommerce.php:549
+#: includes/class-mwb-multi-currency-switcher-for-woocommerce.php:552
+msgid "N/A (ini_get function does not exist)"
+msgstr ""
+
+#: includes/class-mwb-multi-currency-switcher-for-woocommerce.php:515
+msgid "N/A"
+msgstr ""
+
+#: includes/class-mwb-multi-currency-switcher-for-woocommerce.php:533
+msgid "N/A (gethostname function does not exist)"
+msgstr ""
+
+#: includes/class-mwb-multi-currency-switcher-for-woocommerce.php:536
+#: includes/class-mwb-multi-currency-switcher-for-woocommerce.php:545
+msgid "N/A (make sure exec is enabled)"
+msgstr ""
+
+#: includes/dependency/class-mwb-multi-currency-switcher-for-woocommerce-dependency.php:272
+msgid "1"
+msgstr ""
+
+#: index.php:14
+msgid "oops looks like nothing is here"
+msgstr ""
+
+#: mwb-multi-currency-switcher-for-woocommerce.php:196
+msgid "Settings"
+msgstr ""
+
+#: mwb-multi-currency-switcher-for-woocommerce.php:303
+msgid "WooCommerce"
+msgstr ""
+
+#: mwb-multi-currency-switcher-for-woocommerce.php:303
+msgid " is not activated, Please activate WooCommerce first to activate "
+msgstr ""
+
+#: mwb-multi-currency-switcher-for-woocommerce.php:303
+msgid "."
+msgstr ""
+
+#: node_modules/gulp-cli/node_modules/yargs-parser/index.js:302
+#: node_modules/sass-graph/node_modules/yargs-parser/index.js:367
+#: node_modules/yargs-parser/build/lib/yargs-parser.js:428
+#: node_modules/yargs-parser/build/lib/yargs-parser.js:442
+#: node_modules/yargs-parser/build/lib/yargs-parser.js:495
+#: node_modules/yargs/node_modules/yargs-parser/index.js:382
+#: node_modules/yargs/node_modules/yargs-parser/index.js:392
+#: node_modules/yargs/node_modules/yargs-parser/index.js:446
+#, javascript-format
+msgid "Not enough arguments following: %s"
+msgstr ""
+
+#: node_modules/gulp-cli/node_modules/yargs-parser/index.js:450
+#: node_modules/sass-graph/node_modules/yargs-parser/index.js:541
+#: node_modules/yargs-parser/build/lib/yargs-parser.js:634
+#: node_modules/yargs/node_modules/yargs-parser/index.js:591
+#, javascript-format
+msgid "Invalid JSON config file: %s"
+msgstr ""
+
+#: node_modules/gulp-cli/node_modules/yargs/lib/usage.js:169
+#: node_modules/localtunnel/node_modules/yargs/build/lib/usage.js:193
+#: node_modules/sass-graph/node_modules/yargs/lib/usage.js:203
+#: node_modules/yargs/build/lib/usage.js:198
+msgid "Commands:"
+msgstr ""
+
+#: node_modules/gulp-cli/node_modules/yargs/lib/usage.js:177
+#: node_modules/gulp-cli/node_modules/yargs/lib/usage.js:407
+#: node_modules/localtunnel/node_modules/yargs/build/lib/usage.js:473
+#: node_modules/sass-graph/node_modules/yargs/lib/usage.js:223
+#: node_modules/sass-graph/node_modules/yargs/lib/usage.js:458
+#: node_modules/yargs/build/lib/usage.js:457
+msgid "default:"
+msgstr ""
+
+#: node_modules/gulp-cli/node_modules/yargs/lib/usage.js:179
+#: node_modules/localtunnel/node_modules/yargs/build/lib/usage.js:213
+#: node_modules/sass-graph/node_modules/yargs/lib/usage.js:225
+#: node_modules/yargs/build/lib/usage.js:215
+msgid "aliases:"
+msgstr ""
+
+#: node_modules/gulp-cli/node_modules/yargs/lib/usage.js:241
+#: node_modules/localtunnel/node_modules/yargs/build/lib/usage.js:311
+#: node_modules/sass-graph/node_modules/yargs/lib/usage.js:288
+#: node_modules/yargs/build/lib/usage.js:290
+msgid "boolean"
+msgstr ""
+
+#: node_modules/gulp-cli/node_modules/yargs/lib/usage.js:242
+#: node_modules/localtunnel/node_modules/yargs/build/lib/usage.js:313
+#: node_modules/sass-graph/node_modules/yargs/lib/usage.js:289
+#: node_modules/yargs/build/lib/usage.js:292
+msgid "count"
+msgstr ""
+
+#: node_modules/gulp-cli/node_modules/yargs/lib/usage.js:243
+#: node_modules/gulp-cli/node_modules/yargs/lib/usage.js:244
+#: node_modules/localtunnel/node_modules/yargs/build/lib/usage.js:315
+#: node_modules/localtunnel/node_modules/yargs/build/lib/usage.js:317
+#: node_modules/sass-graph/node_modules/yargs/lib/usage.js:290
+#: node_modules/sass-graph/node_modules/yargs/lib/usage.js:291
+#: node_modules/yargs/build/lib/usage.js:294
+#: node_modules/yargs/build/lib/usage.js:296
+msgid "string"
+msgstr ""
+
+#: node_modules/gulp-cli/node_modules/yargs/lib/usage.js:245
+#: node_modules/localtunnel/node_modules/yargs/build/lib/usage.js:319
+#: node_modules/sass-graph/node_modules/yargs/lib/usage.js:292
+#: node_modules/yargs/build/lib/usage.js:298
+msgid "array"
+msgstr ""
+
+#: node_modules/gulp-cli/node_modules/yargs/lib/usage.js:246
+#: node_modules/localtunnel/node_modules/yargs/build/lib/usage.js:321
+#: node_modules/sass-graph/node_modules/yargs/lib/usage.js:293
+#: node_modules/yargs/build/lib/usage.js:300
+msgid "number"
+msgstr ""
+
+#: node_modules/gulp-cli/node_modules/yargs/lib/usage.js:250
+#: node_modules/localtunnel/node_modules/yargs/build/lib/usage.js:330
+#: node_modules/sass-graph/node_modules/yargs/lib/usage.js:297
+#: node_modules/yargs/build/lib/usage.js:307
+msgid "required"
+msgstr ""
+
+#: node_modules/gulp-cli/node_modules/yargs/lib/usage.js:251
+#: node_modules/localtunnel/node_modules/yargs/build/lib/usage.js:332
+#: node_modules/sass-graph/node_modules/yargs/lib/usage.js:298
+#: node_modules/yargs/build/lib/usage.js:308
+msgid "choices:"
+msgstr ""
+
+#: node_modules/gulp-cli/node_modules/yargs/lib/usage.js:270
+#: node_modules/localtunnel/node_modules/yargs/build/lib/usage.js:351
+#: node_modules/sass-graph/node_modules/yargs/lib/usage.js:317
+#: node_modules/yargs/build/lib/usage.js:321
+msgid "Examples:"
+msgstr ""
+
+#: node_modules/gulp-cli/node_modules/yargs/lib/usage.js:385
+#: node_modules/localtunnel/node_modules/yargs/build/lib/usage.js:456
+#: node_modules/sass-graph/node_modules/yargs/lib/usage.js:436
+#: node_modules/yargs/build/lib/usage.js:438
+msgid "generated-value"
+msgstr ""
+
+#: node_modules/gulp-cli/node_modules/yargs/lib/validation.js:26
+#: node_modules/gulp-cli/node_modules/yargs/lib/validation.js:49
+#: node_modules/sass-graph/node_modules/yargs/lib/validation.js:29
+#: node_modules/sass-graph/node_modules/yargs/lib/validation.js:52
+#, javascript-format
+msgid "Not enough non-option arguments: got %s, need at least %s"
+msgstr ""
+
+#: node_modules/gulp-cli/node_modules/yargs/lib/validation.js:37
+#: node_modules/sass-graph/node_modules/yargs/lib/validation.js:40
+#, javascript-format
+msgid "Too many non-option arguments: got %s, maximum of %s"
+msgstr ""
+
+#: node_modules/gulp-cli/node_modules/yargs/lib/validation.js:185
+#: node_modules/localtunnel/node_modules/yargs/build/lib/validation.js:160
+#: node_modules/sass-graph/node_modules/yargs/lib/validation.js:147
+#: node_modules/yargs/build/lib/validation.js:155
+msgid "Invalid values:"
+msgstr ""
+
+#: node_modules/gulp-cli/node_modules/yargs/lib/validation.js:188
+#: node_modules/localtunnel/node_modules/yargs/build/lib/validation.js:162
+#: node_modules/sass-graph/node_modules/yargs/lib/validation.js:150
+#: node_modules/yargs/build/lib/validation.js:157
+#, javascript-format
+msgid "Argument: %s, Given: %s, Choices: %s"
+msgstr ""
+
+#: node_modules/gulp-cli/node_modules/yargs/lib/validation.js:218
+#: node_modules/localtunnel/node_modules/yargs/build/lib/yargs-factory.js:174
+#: node_modules/sass-graph/node_modules/yargs/lib/validation.js:180
+#: node_modules/yargs/build/lib/validation.js:181
+#, javascript-format
+msgid "Argument check failed: %s"
+msgstr ""
+
+#: node_modules/gulp-cli/node_modules/yargs/lib/validation.js:283
+#: node_modules/localtunnel/node_modules/yargs/build/lib/validation.js:221
+#: node_modules/sass-graph/node_modules/yargs/lib/validation.js:256
+#: node_modules/yargs/build/lib/validation.js:248
+msgid "Implications failed:"
+msgstr ""
+
+#: node_modules/gulp-cli/node_modules/yargs/lib/validation.js:313
+#: node_modules/localtunnel/node_modules/yargs/build/lib/validation.js:255
+#: node_modules/sass-graph/node_modules/yargs/lib/validation.js:295
+#: node_modules/yargs/build/lib/validation.js:284
+#, javascript-format
+msgid "Arguments %s and %s are mutually exclusive"
+msgstr ""
+
+#: node_modules/gulp-cli/node_modules/yargs/lib/validation.js:332
+#: node_modules/localtunnel/node_modules/yargs/build/lib/validation.js:274
+#: node_modules/sass-graph/node_modules/yargs/lib/validation.js:316
+#: node_modules/yargs/build/lib/validation.js:303
+#, javascript-format
+msgid "Did you mean %s?"
+msgstr ""
+
+#: node_modules/localtunnel/node_modules/yargs/build/lib/usage.js:90
+#: node_modules/sass-graph/node_modules/yargs/lib/usage.js:92
+#: node_modules/yargs/build/lib/usage.js:90
+msgid "Positionals:"
+msgstr ""
+
+#: node_modules/localtunnel/node_modules/yargs/build/lib/usage.js:184
+#: node_modules/localtunnel/node_modules/yargs/build/lib/usage.js:187
+#: node_modules/sass-graph/node_modules/yargs/lib/usage.js:192
+#: node_modules/sass-graph/node_modules/yargs/lib/usage.js:194
+#: node_modules/yargs/build/lib/usage.js:187
+#: node_modules/yargs/build/lib/usage.js:190
+msgid "command"
+msgstr ""
+
+#: node_modules/localtunnel/node_modules/yargs/build/lib/usage.js:211
+#: node_modules/yargs/build/lib/usage.js:213
+msgid "default"
+msgstr ""
+
+#: node_modules/localtunnel/node_modules/yargs/build/lib/usage.js:217
+#: node_modules/localtunnel/node_modules/yargs/build/lib/usage.js:323
+#: node_modules/yargs/build/lib/usage.js:219
+#: node_modules/yargs/build/lib/usage.js:302
+#, javascript-format
+msgid "deprecated: %s"
+msgstr ""
+
+#: node_modules/localtunnel/node_modules/yargs/build/lib/usage.js:220
+#: node_modules/localtunnel/node_modules/yargs/build/lib/usage.js:324
+#: node_modules/yargs/build/lib/usage.js:222
+#: node_modules/yargs/build/lib/usage.js:303
+msgid "deprecated"
+msgstr ""
+
+#: node_modules/localtunnel/node_modules/yargs/build/lib/usage.js:239
+#: node_modules/yargs/build/lib/usage.js:241
+msgid "Options:"
+msgstr ""
+
+#: node_modules/yargs-parser/build/lib/yargs-parser.js:419
+#: node_modules/yargs/node_modules/yargs-parser/index.js:372
+#, javascript-format
+msgid "Argument unexpected for: %s"
+msgstr ""
+
+#: node_modules/yargs-parser/build/lib/yargs-parser.js:963
+#: node_modules/yargs/node_modules/yargs-parser/index.js:941
+#, javascript-format
+msgid "Invalid configuration: %s, opts.count excludes opts.array."
+msgstr ""
+
+#: node_modules/yargs-parser/build/lib/yargs-parser.js:967
+#: node_modules/yargs/node_modules/yargs-parser/index.js:944
+#, javascript-format
+msgid "Invalid configuration: %s, opts.count excludes opts.narg."
+msgstr ""
+
+#: onboarding/templates/mwb-multi-currency-switcher-for-woocommerce-deactivation-template.php:33
+msgid "May we have a little info about why you are deactivating?"
+msgstr ""
+
+#: onboarding/templates/mwb-multi-currency-switcher-for-woocommerce-deactivation-template.php:44
+msgid "Skip and Deactivate Now"
+msgstr ""
+
+#: onboarding/templates/mwb-multi-currency-switcher-for-woocommerce-onboarding-template.php:27
+msgid "Welcome to MakeWebBetter"
+msgstr ""
+
+#: onboarding/templates/mwb-multi-currency-switcher-for-woocommerce-onboarding-template.php:28
+msgid ""
+"We love making new friends! Subscribe below and we promise to keep you up-to-"
+"date with our latest new plugins, updates, awesome deals and a few special "
+"offers."
+msgstr ""
+
+#: onboarding/templates/mwb-multi-currency-switcher-for-woocommerce-onboarding-template.php:40
+msgid "Skip For Now"
+msgstr ""
+
+#: public/class-mwb-multi-currency-switcher-for-woocommerce-public.php:525
+msgid "Currency"
+msgstr ""
+
+#: public/class-mwb-multi-currency-switcher-for-woocommerce-public.php:761
+#: public/class-mwb-multi-currency-switcher-for-woocommerce-public.php:786
+msgid "--Select Any--"
+msgstr ""
+
+#: public/class-mwb-multi-currency-switcher-for-woocommerce-public.php:812
+msgid "Convert Currency"
+msgstr ""
+
+#: templates/admin/mwb-multi-currency-switcher-for-woocommerce-admin-currency-table-edit-tab.php:38
+msgid "Custom Symbol"
+msgstr ""
+
+#: templates/admin/mwb-multi-currency-switcher-for-woocommerce-admin-currency-table-edit-tab.php:48
+msgid "Custom Flag"
+msgstr ""
+
+#: templates/admin/mwb-multi-currency-switcher-for-woocommerce-admin-currency-table-edit-tab.php:64
+msgid "only jpg, jpeg and png image format allowed."
+msgstr ""
+
+#: templates/admin/mwb-multi-currency-switcher-for-woocommerce-admin-currency-table-edit-tab.php:70
+#: templates/admin/mwb-multi-currency-switcher-for-woocommerce-admin-currency-table-edit-tab.php:75
+msgid "Remove image"
+msgstr ""
+
+#: templates/admin/mwb-multi-currency-switcher-for-woocommerce-admin-currency-table-edit-tab.php:89
+msgid "Thousand separator"
+msgstr ""
+
+#: templates/admin/mwb-multi-currency-switcher-for-woocommerce-admin-currency-table-edit-tab.php:99
+msgid "Decimal separator"
+msgstr ""
+
+#: templates/admin/mwb-multi-currency-switcher-for-woocommerce-admin-currency-table-edit-tab.php:109
+msgid "cents"
+msgstr ""
+
+#: templates/admin/mwb-multi-currency-switcher-for-woocommerce-admin-currency-table-edit-tab.php:119
+msgid "Show"
+msgstr ""
+
+#: templates/admin/mwb-multi-currency-switcher-for-woocommerce-admin-currency-table-edit-tab.php:126
+msgid "Hide"
+msgstr ""
+
+#: templates/admin/mwb-multi-currency-switcher-for-woocommerce-admin-currency-table-edit-tab.php:135
+msgid "Description"
+msgstr ""

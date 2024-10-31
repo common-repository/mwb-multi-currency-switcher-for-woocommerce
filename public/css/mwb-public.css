@@ -1,0 +1,442 @@
+/* Create Color variables here
+ * follow this link for Color name
+ * https://chir.ag/projects/name-that-color/
+ * and use $c prefix.
+ * use lowercase for color code and variable name 
+ * i.e $c-black: #000000; */
+/* Create Typo variables here
+ * use $ff prefix for font family
+ * use $fs for font size
+ i.e $ff-roboto-b: Roboto-bold;
+ * $fs-large: 40px; */
+/* Placeholders */
+/* Mixins */
+/* SCSS Functions */
+/* Enter Your Global CSS here */
+* {
+  box-sizing: border-box;
+}
+
+*:after, *:before {
+  box-sizing: border-box;
+}
+
+/* Enter Button Global CSS Here */
+/* Header CSS */
+/* Footer CSS */
+/* Navigation CSS */
+/* Sidebar CSS */
+/* About page css */
+/* Home Page CSS */
+/* Enter Your Global CSS here */
+* {
+  box-sizing: border-box;
+}
+
+*:after, *:before {
+  box-sizing: border-box;
+}
+
+/* Enter Button Global CSS Here */
+/* Header CSS */
+/* Footer CSS */
+/* Navigation CSS */
+/* Sidebar CSS */
+/* About page css */
+/* Home Page CSS */
+.mwb-cs__side-switcher {
+  position: absolute;
+  top: 110px;
+  cursor: pointer;
+  z-index: 99999;
+}
+
+.mwb-cs__side-switcher.mwb-switcher-left {
+  left: -20px;
+}
+
+.mwb-cs__side-switcher.mwb-switcher-left .mwb-cs__sidepopup-wrap {
+  flex-direction: row-reverse;
+  transform: translateX(-118px);
+}
+
+.mwb-cs__side-switcher.mwb-switcher-left .mwb-cs__currency-tag {
+  margin-left: 10px;
+}
+
+.mwb-cs__side-switcher.mwb-switcher-right {
+  right: 0;
+  overflow: hidden;
+}
+
+.mwb-cs__side-switcher.mwb-switcher-right .mwb-cs__sidepopup-wrap {
+  flex-direction: row;
+  transform: translateX(125px);
+}
+
+.mwb-cs__side-switcher.mwb-switcher-right .mwb-cs__currency-tag {
+  margin-right: 10px;
+}
+
+.mwb-cs__side-switcher .mwb-cs__sidepopup-wrap {
+  transition: all .35s ease-in-out;
+  width: 185px;
+  display: flex;
+  align-items: center;
+  border: 1px solid #dcdcdc;
+  padding: 7px 7px;
+  background: #fff;
+  margin: 10px 0;
+  box-shadow: 0 2px 10px 5px rgba(33, 150, 243, 0.05);
+}
+
+.mwb-cs__side-switcher .mwb-cs__sidepopup-wrap p {
+  margin: 0;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 14px;
+  line-height: 24px;
+  color: #3F4756;
+  display: inline-block;
+}
+
+.mwb-cs__side-switcher .mwb-cs__sidepopup-wrap:hover {
+  transform: translateX(6px);
+}
+
+.mwb-cs__side-switcher.mwb-switcher-left .mwb-cs__sidepopup-wrap:hover {
+  transform: translateX(0);
+}
+
+.mwb-cs__side-switcher .mwb-cs__sidepopup-wrap.mwb-rectangle {
+  border-radius: 0;
+}
+
+.mwb-cs__side-switcher .mwb-cs__sidepopup-wrap.mwb-rectangle .mwb-cs__currency-tag {
+  border-radius: 0;
+}
+
+.mwb-cs__side-switcher .mwb-cs__sidepopup-wrap.mwb-circle {
+  border-radius: 50px;
+}
+
+.mwb-cs__side-switcher .mwb-cs__sidepopup-wrap.mwb-circle .mwb-cs__currency-tag {
+  border-radius: 50%;
+}
+
+.mwb-cs__side-switcher .mwb-cs__currency-tag {
+  width: 32px;
+  height: 32px;
+  background: #2196f3;
+  color: #fff;
+  font-size: 12px;
+  line-height: 32px;
+  text-align: center;
+  letter-spacing: 0.5px;
+}
+
+.currency_switcher_select_wrap {
+  display: inline-block;
+  width: 48%;
+  padding-bottom: 20px;
+}
+
+.currency_switcher_select_wrap select {
+  -webkit-appearance: none;
+  line-height: 1.2em;
+  min-height: 35px;
+  border-radius: 8px;
+  font-size: 14px;
+  font-weight: 500;
+  background-color: #ffffff;
+  padding-right: 30px;
+  font-family: NunitoSans-Regular,sans-serif;
+}
+
+.currency_switcher_select_wrap select, .currency_switcher_select_wrap .select2-container {
+  border: 1px solid  #cccccc;
+  border-radius: 5px;
+  padding: 5px 10px;
+  font-size: 12px;
+  height: 40px;
+  font-weight: 500;
+  min-width: 80px;
+  box-shadow: none;
+  cursor: pointer;
+  position: relative;
+  color: #3c434a;
+  background-color: #ffffff;
+  width: 100% !important;
+}
+
+.logged-in .mwb-cs__side-switcher {
+  margin-top: 70px;
+}
+
+.currency_switcher_select_wrap select:focus, .currency_switcher_select_wrap .select2-container:focus {
+  outline: none;
+}
+
+.currency_switcher_select_wrap .select2-selection.select2-selection--single {
+  margin: 0;
+  border: 0;
+  box-shadow: none;
+}
+
+.currency_switcher_select_wrap:after {
+  display: block;
+  clear: both;
+  content: '';
+}
+
+.currency_switcher_select_wrap.currency_switcher_select2_wrap {
+  margin-left: 3.2%;
+}
+
+.currency_switcher_main_wrap.currency_switcher_widget_wrap .currency_switcher_converted_price {
+  margin-right: 10px;
+}
+
+.currency_switcher_main_wrap.currency_switcher_widget_wrap .currency_switcher_converted_price input#show_converted_price {
+  margin-bottom: 0px;
+}
+
+.currency_switcher_main_wrap input#show_converted_price {
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  padding: 5px 10px;
+  height: 40px;
+  min-width: 80px;
+  font-size: 12px;
+  font-weight: 500;
+  background-color: #fff;
+  box-shadow: none;
+  color: #3c434a;
+  font-family: NunitoSans-Regular,sans-serif;
+  width: 100%;
+  margin-bottom: 20px;
+}
+
+.currency_switcher_main_wrap input#show_converted_price:focus {
+  outline: none;
+}
+
+.currency_switcher_main_wrap input.currency_switcher_converted_btn {
+  border-radius: 35px !important;
+  padding: 11px 24px !important;
+  height: 100%;
+  color: #fff;
+  background: #2196f3;
+  width: 180px;
+  font-size: 13px;
+  text-transform: uppercase;
+  cursor: pointer;
+  box-shadow: 0px 3px 1px -2px rgba(0, 0, 0, 0.2), 0px 2px 2px 0px rgba(0, 0, 0, 0.14), 0px 1px 5px 0px rgba(0, 0, 0, 0.12);
+  transition: box-shadow 280ms cubic-bezier(0.4, 0, 0.2, 1);
+  padding-bottom: 20px;
+}
+
+.currency_switcher_main_wrap input.currency_switcher_converted_btn:focus, .currency_switcher_main_wrap input.currency_switcher_converted_btn:hover {
+  box-shadow: 0px 2px 4px -1px rgba(0, 0, 0, 0.2), 0px 4px 5px 0px rgba(0, 0, 0, 0.14), 0px 1px 10px 0px rgba(0, 0, 0, 0.12);
+  background: #2196f3;
+  color: #fff;
+  outline: none;
+}
+
+input:focus, select:focus, textarea:focus {
+  outline: none;
+}
+
+.widget-area h4.mwb-currency-switcher-widget-title {
+  margin-bottom: 15px;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 18px;
+  line-height: 24px;
+  color: #3F4756;
+  display: block;
+  font-family: NunitoSans-Regular,sans-serif;
+}
+
+.widget-area select {
+  -webkit-appearance: none;
+  line-height: 1.2em;
+  min-height: 35px;
+  border-radius: 8px;
+  font-size: 14px;
+  font-weight: 500;
+  background-color: #ffffff;
+  padding-right: 30px;
+  font-family: NunitoSans-Regular,sans-serif;
+}
+
+.widget-area select, .widget-area .select2-container {
+  border: 1px solid  #cccccc;
+  border-radius: 5px;
+  padding: 5px 10px;
+  font-size: 12px;
+  height: 40px;
+  font-weight: 500;
+  min-width: 80px;
+  box-shadow: none;
+  cursor: pointer;
+  position: relative;
+  color: #3c434a;
+  background-color: #ffffff;
+  width: 100% !important;
+}
+
+.widget-area select:focus, .widget-area .select2-container:focus {
+  outline: none;
+}
+
+.widget-area .select2-selection.select2-selection--single {
+  margin: 0;
+  border: 0;
+  box-shadow: none;
+}
+
+.widget-area #show_flag img {
+  width: 70px;
+}
+
+#currency_switcher {
+  width: 100%;
+  min-height: 30px;
+}
+
+.currency_switcher_ddl {
+  border: 1px solid #cccccc;
+  border-radius: 5px;
+  padding: 5px 10px;
+  font-size: 12px;
+  height: 40px;
+  font-weight: 500;
+  min-width: 80px;
+  box-shadow: none;
+  cursor: pointer;
+  position: relative;
+  color: #3c434a;
+  background-color: #ffffff;
+  width: 47% !important;
+}
+
+.fusion-footer-widget-area h4.mwb-currency-switcher-widget-title {
+  color: #dddddd !important;
+  font-weight: 400;
+}
+
+#show_flag {
+  margin: 10px 0;
+}
+
+#show_flag img {
+  max-width: 30%;
+}
+
+aside.sidebar-container .currency_switcher_converted_price {
+  margin-right: 10px;
+}
+
+aside.sidebar-container .currency_switcher_converted_btn_wrap {
+  margin-bottom: 20px;
+}
+
+.wmcs_table_widget_wrap {
+  overflow-x: auto;
+  width: 100%;
+}
+
+.wmcs_table_widget {
+  width: 100%;
+}
+
+.widgets_wrapper .currency_switcher_converted_price {
+  margin-right: 10px !important;
+}
+
+.widgets_wrapper #show_converted_price {
+  margin-bottom: 10px !important;
+}
+
+.widgets_wrapper .currency_switcher_converted_btn {
+  margin-bottom: 0;
+}
+
+.widgets_wrapper .currency_switcher_converted_btn_wrap {
+  margin-bottom: 10px !important;
+}
+
+.entry-summary .currency_switcher_widget_wrap .currency_switcher_converted_btn_wrap input {
+  margin-bottom: 0;
+}
+
+.footer-widgets .currency_switcher_main_wrap .currency_switcher_converted_price {
+  margin-right: 10px;
+}
+
+.footer-widgets .currency_switcher_main_wrap .currency_switcher_converted_price #show_converted_price {
+  margin-bottom: 0;
+}
+
+.theme-flatsome .currency_switcher_converted_btn {
+  min-height: unset !important;
+  margin-bottom: 0 !important;
+}
+
+.woocommerce-Tabs-panel .currency_switcher_main_wrap .currency_switcher_converted_price #show_converted_price {
+  margin-bottom: 10px !important;
+}
+
+.woocommerce-Tabs-panel .currency_switcher_main_wrap .currency_switcher_converted_btn_wrap .currency_switcher_converted_btn {
+  margin-bottom: 10px;
+}
+
+/*=====    Currency Converter CSS Ends   ======*/
+
+@media screen and (max-width: 767px) {
+  .currency_switcher_select_wrap {
+    display: inline-block;
+    width: 100%;
+    padding-bottom: 20px;
+  }
+  .currency_switcher_select_wrap.currency_switcher_select2_wrap .currency_switcher_select_wrap.currency_switcher_select2_wrap {
+    margin-left: 0;
+  }
+}
+
+@media screen and (min-width: 768px) and (max-width: 1200px) {
+  .currency_switcher_select_wrap.currency_switcher_select2_wrap {
+    margin-left: 3%;
+  }
+}
+
+@media (max-width: 768px) {
+  .currency_switcher_main_wrap .currency_switcher_select_wrap.currency_switcher_select2_wrap {
+    margin-left: 0;
+  }
+  .currency_switcher_main_wrap .currency_switcher_converted_price {
+    margin-right: 10px;
+  }
+  .currency_switcher_main_wrap .currency_switcher_converted_price input {
+    margin-bottom: 0 !important;
+  }
+  aside.sidebar-container .currency_switcher_converted_btn_wrap {
+    margin-bottom: 0px;
+  }
+}
+
+@media (max-width: 400px) {
+  .currency_switcher_main_wrap .currency_switcher_converted_price input {
+    margin-bottom: 10px !important;
+  }
+}
+
+@media only screen and (max-width: 768px) {
+  .entry-summary .currency_switcher_widget_wrap .currency_switcher_converted_btn_wrap input {
+    margin-bottom: 10px;
+  }
+  .wc-tabs-wrapper .currency_switcher_widget_wrap .currency_switcher_converted_btn_wrap .currency_switcher_converted_btn {
+    margin-bottom: 10px;
+  }
+}
